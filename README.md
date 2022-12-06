@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/aacfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aacfahim" height="30" width="40" /></a>
 <a href="https://fb.com/aacfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aacfahim" height="30" width="40" /></a>
 <a href="https://instagram.com/aacfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aacfahim" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/aacfahim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/aacfahim/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/aacfahim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aacfahim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
