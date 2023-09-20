@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashfaq aka Fahim</h1>
-<h3 align="center">A tech enthusiast with some knowledge in App Development!</h3>
+<h3 align="center">A tech enthusiast with some knowledge in App Development & Spring Boot!</h3>
 
  💡 I'm currently interested in **Flutter 📱 💻**
 
